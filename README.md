@@ -21,15 +21,7 @@ For more command line arguments, simply type:
 python run.py
 ```
 
-## Project structure
-
-- Folder "pfspwt" contains the source code of the project.
-- Folder "data" contains the PFSP-WT instances provided along with the project statement.
-- Folder "results" contains the results for the three different algorithms mentionned in the report.
-- Folder "misc" contains aggregated results, statistical tests and figures.
-- Folder "report" contains the source code of the report as well as a pdf version.
 - "run.py" is the entry point of the program.
-- "produce-results.py" is the script that has been used to generate the content of folder "results".
 - "hpo.py" is the script for hyper-optimizing the different algorithms.
 
 ## Dependencies
