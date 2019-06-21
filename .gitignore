@@ -1,0 +1,11 @@
+*.log
+*.pyc
+*.pickle
+*.pkl
+
+stats.py
+
+dist/
+build/
+__pycache__/
+gaussfold.egg-info
